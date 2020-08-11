@@ -1,0 +1,88 @@
+body{
+	background-color: #ccc;
+	color: #222;
+	font-family: Aerial;
+
+}
+.respo{
+	color: maroon;
+	text-align: center;
+	font-style: 1.0vw;
+}
+
+.cont{
+	max-width: 1000px;
+	max-height: 200px;
+	margin:0 auto;
+	background-color: white;
+}
+.cont h2{
+	font-size: 10vw;
+}
+
+.one{
+	background-color: #556B2F;
+	min-height: 100px;
+	padding: 20px;
+	font-style: 1.0vw;
+}
+
+.two{
+	background-color: #5F9EA0;
+	min-height: 100px;
+	padding: 20px;
+	font-style: 1.0vw;
+
+}
+
+
+.three{
+	background-color: #2F4F4F;
+	min-height: 100px;
+	padding: 20px;
+	font-style: 1.0vw;
+}
+
+
+
+.four{
+	background-color: #008080;
+	min-height: 100px;
+	padding: 20px;
+	font-style: 1.0vw;
+}
+
+
+
+.five{
+	background-color: #A0522D;
+	min-height: 100px;
+	padding: 20px;
+	font-style: 1.0vw;
+}
+
+
+
+.six{
+	background-color:#800080;
+	min-height: 100px;
+	padding: 20px;
+	font-style: 1.0vw;
+}
+
+
+.seven{
+	background-color: #9ACD32;
+	min-height: 100px;
+	padding: 20px;
+	font-style: 1.0;
+}
+
+
+
+.eight{
+	background-color:#800080;
+	min-height: 100px;
+	padding: 20px;
+	font-style: 1.0vw;
+}
